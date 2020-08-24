@@ -1,35 +1,39 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://ezoschool.me',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Блог',
+  subtitle: 'Вы знаете зачем Вы здесь.',
+  copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-21023919-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Статьи',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Обо мне',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Услуги',
+      path: '/pages/services'
+    },
+    {
+      label: 'Контакты',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ольга',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'короткий текст - что и зачем',
     contacts: {
-      email: '',
+      email: 'ezoschool@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
@@ -37,7 +41,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: 'ezo_school',
       line: '',
       gitlab: '',
       weibo: '',
