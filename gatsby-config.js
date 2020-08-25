@@ -204,5 +204,13 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.ezoschool.me',
+        sitemap: 'https://www.ezoschool.me/sitemap.xml',
+        policy: [{ userAgent: '*', disallow: '/' }]
+      }
+    },
   ]
 };

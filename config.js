@@ -33,7 +33,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'короткий текст - что и зачем',
     contacts: {
-      email: 'ezoschool@gmail.com',
+      email: 'ezo.school.ua@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
