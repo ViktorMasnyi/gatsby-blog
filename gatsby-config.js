@@ -209,7 +209,7 @@ module.exports = {
       options: {
         host: 'https://www.ezoschool.me',
         sitemap: 'https://www.ezoschool.me/sitemap.xml',
-        policy: [{ userAgent: '*', disallow: '/' }]
+        policy: [{ userAgent: '*', allow: '/' }]
       }
     },
   ]
