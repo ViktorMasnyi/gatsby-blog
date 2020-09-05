@@ -10,7 +10,7 @@ tags:
 description: "Семь простых правил на каждый день, чтобы восстановить и поддерживать ваше эмоциональное здоровье"
 socialImage: "/media/emotional_health.jpg"
 ---
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/emotional_health.jpg)
+![эмоциональное здоровье](/media/emotional_health.jpg)
 
 1. Носите цветную одежду!
 
